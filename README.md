@@ -14,7 +14,7 @@ Para rodar este projeto localmente, é necessário ter o Node.js e npm/yarn inst
 - Clone o repositório: 
 
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
-    $ git clone https://github.com/TCC-IFF/tcc-react-lp
+    $ git clone https://github.com/TCC-IFF/tcc-react-lp.git
 <!--endsec-->
 
 </br>
